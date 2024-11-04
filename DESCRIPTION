@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Mathieu", "Desgagnés", , "mathieu.desgagnes@dfo-mpo.gc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: bla bla héhé
+Description: Okok, bla bla héhé je vais faire une phrase complète haha.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
