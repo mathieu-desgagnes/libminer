@@ -11,6 +11,6 @@ test_that("lib_summary returns exected results", {
 })
 
 test_that('lib_summary fails appropiately', {
-  expect_error(lib_summary('hello'),'unused argument')
+  expect_error(lib_summary('hello'),'must be logical')
 })
 
