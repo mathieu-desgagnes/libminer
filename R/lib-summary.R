@@ -14,6 +14,7 @@ lib_summary <- function(sizes=FALSE) {
     stop('"sizes" must be logical')
   }
 
+  x <- head(1:10,1)
   pkgs <- utils::installed.packages()
   pkg_tbl <- table(pkgs[,'LibPath'])
   pkg_df <- as.data.frame(pkg_tbl, stringsAsFactors = FALSE)
